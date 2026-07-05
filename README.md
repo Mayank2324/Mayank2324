@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Mayank Patel
-
+# 👋 Hi, Mayank Patel here.
 ### 🚀 Cloud & DevOps Engineer | MCA Student | AWS | Docker | Kubernetes | Terraform | Jenkins
 
 I'm an MCA student passionate about **Cloud Computing** and **DevOps Engineering**. I enjoy building scalable infrastructure, automating deployments, and solving real-world problems using modern cloud technologies.
