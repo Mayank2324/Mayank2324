@@ -114,7 +114,7 @@ Implemented an automated CI/CD pipeline using Jenkins, GitHub, Docker, and Linux
 https://linkedin.com/in/mayank-patel-68ab08294
 
 🐙 GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
+https:https://github.com/Mayank2324
 
 ---
 
