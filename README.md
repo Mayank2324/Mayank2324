@@ -46,15 +46,10 @@ Currently, I'm focused on mastering **AWS, Docker, Kubernetes, Terraform, Jenkin
 
 ### 🖥️ Operating Systems
 - Linux (Ubuntu)
-- Windows
 
 ---
 
 # 🚀 Projects
-
-## 📌 JobVerse - MERN Job Portal
-
-A full-stack job portal built using the MERN Stack where recruiters can post jobs and candidates can apply online.
 
 ### Technologies
 - React.js
@@ -80,22 +75,9 @@ Provisioned AWS infrastructure using Terraform following Infrastructure as Code 
 
 ---
 
-## 📌 CI/CD Pipeline
-
-Implemented an automated CI/CD pipeline using Jenkins, GitHub, Docker, and Linux.
-
-### Technologies
-- Jenkins
-- Docker
-- GitHub
-- Linux
-- Shell Script
-
----
-
 ## 📈 Currently Learning
 
-- Advanced Kubernetes
+- Kubernetes
 - GitHub Actions
 - Helm
 - ArgoCD
