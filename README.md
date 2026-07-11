@@ -51,16 +51,6 @@ Currently, I'm focused on mastering **AWS, Docker, Kubernetes, Terraform, Jenkin
 
 # 🚀 Projects
 
-### Technologies
-- React.js
-- Node.js
-- Express.js
-- MongoDB Atlas
-- Docker
-- JWT Authentication
-
----
-
 ## 📌 AWS Infrastructure Automation
 
 Provisioned AWS infrastructure using Terraform following Infrastructure as Code (IaC) principles.
