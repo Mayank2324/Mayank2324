@@ -36,13 +36,8 @@ Currently, I'm focused on mastering **AWS, Docker, Kubernetes, Terraform, Jenkin
 - Terraform
 
 ### 💻 Programming
-- JavaScript
 - Python
 - Shell Scripting
-
-### 🗄️ Database
-- MongoDB
-- MySQL
 
 ### 🖥️ Operating Systems
 - Linux (Ubuntu)
